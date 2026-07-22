@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffe0;
+    color: #333333;
+}
+
+h1 {
+    color: rgb(210, 105, 30);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h2 {
+    color: #8b4513;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    background-color: rgb(210, 105, 30);
+    color: white;
+}
+
+.solido {
+    background-color: #ffe4b5;
+    color: black;
+}
+
+.liquido {
+    background-color: #add8e6;
+    color: black;
+}
+
+.preco-unitario {
+    color: #555555;
+}
+
+.preco-total {
+    color: #008000;
+    font-size: 1.2em;
+}
